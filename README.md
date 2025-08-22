@@ -21,3 +21,6 @@ Return rates were calculated as Returned Quantity / Total Ordered Quantity using
 Customers were segmented into High, Medium, and Low tiers based on total spend using QUARTILE.INC and IF. Counts: High (1,096), Medium (2,192), Low (1,096).
 ## Dashboard Summary
 The Excel dashboard includes KPIs such as Total Revenue (₹95,05,775.56), Total Quantity Sold (5,992,601), Top Products, and Sales by Country. It features interactive slicers and charts for dynamic exploration.
+<img width="1459" height="588" alt="Dashboard" src="https://github.com/user-attachments/assets/4b1fdaad-82b1-42af-9346-e643fb29414a" />
+
+
